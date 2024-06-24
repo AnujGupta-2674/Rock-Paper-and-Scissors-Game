@@ -9,4 +9,4 @@ JS for overall Game Logic
 # Working Logic
 User chooses its choice from the pictures given below.
 Computer Choice is chosen by using random function by storing all three options in a array and returning random choice for computer
-On the basis of user and computer winner and looser is decided
+On the basis of user and computer choice winner and looser is decided and the background color changes accordingly
